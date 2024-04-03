@@ -96,9 +96,9 @@ require('top.php');
         </section>
         <!-- End Contact Area -->
 		<!-- Google Map js -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBmGmeot5jcjdaJTvfCmQPfzeoG_pABeWo "></script>
-    <script src="js/contact-map.js"></script>
-    <script>
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBmGmeot5jcjdaJTvfCmQPfzeoG_pABeWo "></script>
+    <script src="js/contact-map.js"></script> -->
+    <!-- <script>
         // When the window has finished loading create our google map below
         google.maps.event.addDomListener(window, 'load', init);
 
@@ -302,5 +302,5 @@ require('top.php');
 
             });
         }
-    </script>
+    </script> -->
 <?php require('footer.php')?>        
